@@ -48,3 +48,7 @@ The next chart is a bar chart that is used to visualize the number of medals per
 
 
 ![alt text](<DataLab plot-1.png>)
+
+# To dos:
+
+- Create a website to showcase the data.
